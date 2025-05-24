@@ -1,4 +1,0 @@
-instagrapi
-Pillow
-transformers
-torch
